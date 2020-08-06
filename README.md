@@ -37,7 +37,7 @@
 <br />
 
 <a href="https://github.com/ashok1815">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1815&theme=dark&hide_langs_below=1" />
 </a>
 
 <div align="center">
