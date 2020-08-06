@@ -43,11 +43,11 @@
 <a href="https://github.com/ashok1815">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=dark&line_height=27" alt="Ashok's github stats"/>
 </a>
-<a href="https://github.com/ASHOK1815/Heart-disease-prediction">
+<a href="https://github.com/ashok1815/Heart-disease-prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok1815&repo=MachineLearning=dark" />
 
 </a>
-<a href="https://github.com/ASHOK1815/cusm-website-.github.io">
+<a href="https://github.com/ashok1815/cusm-website-.github.io">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok1815&repo=StudyMaterialWebsite=dark" />
 </a>
 
