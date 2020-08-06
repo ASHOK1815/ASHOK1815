@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1815&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ashok1815">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=radica&line_height=27" alt="Ashok's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=radical&line_height=27" alt="Ashok's github stats"/>
 </a>
 
 
