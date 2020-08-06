@@ -44,7 +44,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=dark&line_height=27" alt="Ashok's github stats"/>
 </a>
 <a href="https://github.com/ASHOK1815/Heart-disease-predictions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok1815&repo=Heart-disease-predictions=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok1815&repo=https://github.com/ASHOK1815/Heart-disease-predictions=dark" />
 
 </a>
 
