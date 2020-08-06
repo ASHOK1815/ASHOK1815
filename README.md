@@ -41,7 +41,7 @@
 [youtube]: https://www.youtube.com/channel/UCQ9ZVAwdxhxc4HJt2iVF0cg
 [instagram]:https://www.instagram.com/ashokkumawat18_15
 [linkedin]: https://www.linkedin.com/in/ashok-kumawat-257b03144/
-[webdevplaylist]:
-[jsplaylist]:
-[cssplaylist]: 
-[reactplaylist]: 
+[webdevplaylist]:none
+[jsplaylist]: none
+[cssplaylist]: none
+[reactplaylist]: none
