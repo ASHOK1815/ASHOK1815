@@ -14,7 +14,7 @@
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt=" | Instagram" width="22px" src="https://img.shields.io/twitter/follow/imthepk?style=social" />][instagram]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -60,6 +60,7 @@
 [twitter]: https://twitter.com/AshokKu89186885
 [youtube]: https://www.youtube.com/channel/UCQ9ZVAwdxhxc4HJt2iVF0cg
 [instagram]:https://www.instagram.com/ashokkumawat18_15
+[telegram]:https://t.me/ashok181
 [linkedin]: https://www.linkedin.com/in/ashok-kumawat-257b03144/
 [webdevplaylist]:none
 [jsplaylist]: none
