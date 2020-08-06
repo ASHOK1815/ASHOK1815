@@ -44,14 +44,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=synthwave&line_height=27" alt="Ashok's github stats"/>
 </a>
 
-<a href="https://github.com/ashok1815">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok1815&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
