@@ -44,7 +44,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=synthwave&line_height=27" alt="Ashok's github stats"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ashok1815">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
