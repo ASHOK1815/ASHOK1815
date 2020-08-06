@@ -36,6 +36,10 @@
 
 <br />
 
+<a href="https://github.com/ashok1815">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+</a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
