@@ -43,7 +43,7 @@
 <a href="https://github.com/ashok1815">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=dark&line_height=27" alt="Ashok's github stats"/>
 </a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
 
