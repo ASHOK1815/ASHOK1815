@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumawat</h1>
 <h3 align="center">A self-taught programmer😜</h3>
 
+![GitHub followers](https://img.shields.io/github/followers/ashok1815?logo=GitHub&style=for-the-badge)
 ## I'm a Programmer and  Developer !
 - 🔭 I’m currently working on a python developer!
 - 🌱 I’m currently learning everything 🤣
