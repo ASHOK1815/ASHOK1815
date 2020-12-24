@@ -1,4 +1,5 @@
-### Hi there, I'm Ashok Kumawat -  👋
+<h1 align="center">Hi 👋, I'm Ashok Kumawat</h1>
+<h3 align="center">A self-taught programmer😜</h3>
 
 ## I'm a Programmer and  Developer !
 - 🔭 I’m currently working on a python developer!
