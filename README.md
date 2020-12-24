@@ -2,6 +2,7 @@
 <h3 align="center">A self-taught programmer😜</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/ashok1815?logo=GitHub&style=for-the-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok1815&label=Views&color=blue&style=plastic" alt="ashok1815" /> </p>
 ## I'm a Programmer and  Developer !
 - 🔭 I’m currently working on a python developer!
 - 🌱 I’m currently learning everything 🤣
