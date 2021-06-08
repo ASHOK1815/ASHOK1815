@@ -44,7 +44,7 @@
 </br>
 </br>
 <a href="https://github.com/ashok1815">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1815&theme=great-gatsby&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1815&theme=react&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ashok1815">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok1815&show_icons=true&theme=react&line_height=27" alt="ashok's github stats"/>
