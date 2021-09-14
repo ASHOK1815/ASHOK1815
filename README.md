@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumawat</h1>
 
-![GIF image](assets/vibes.gif)
+![GIF image](assets/vibes.gif| width=100)
 ![hero image](assets/undraw_feeling_proud_qne1.png)
 
 
