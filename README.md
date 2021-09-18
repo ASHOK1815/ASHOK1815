@@ -1,5 +1,7 @@
 <center><h1 align="center">Hi 👋, I'm Ashok Kumawat</h1></center>
 
+![GitHub followers](https://img.shields.io/github/followers/ashok1815?logo=GitHub&style=for-the-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok1815&label=Views&color=blue&style=plastic" alt="ashok1815" /> </p>
 ![hero image](assets/undraw_Developer_activity_re_39tg.svg)
 
 
@@ -10,8 +12,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and  Volleyball
 
-![GitHub followers](https://img.shields.io/github/followers/ashok1815?logo=GitHub&style=for-the-badge)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok1815&label=Views&color=blue&style=plastic" alt="ashok1815" /> </p>
+
 
 ### Connect with me:
 
