@@ -1,6 +1,6 @@
 <center><h1 align="center">Hi 👋, I'm Ashok Kumawat</h1></center>
 
-![hero image](assets/undraw_feeling_proud_qne1.png)
+![hero image](assets/undraw_feeling_proud_qne1.png width="400")
 
 
 ## I'm a Programmer and  Developer !
